@@ -1,0 +1,97 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "vga_hs",
+					"strict" : false
+				},
+				{
+					"name" : "vga_vs",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sys_rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[3]",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[2]",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

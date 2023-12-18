@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Jul 31 19:33:52 2023
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : vga_blockmove
+Top-level Entity Name : vga_blockmove
+Family : Cyclone 10 LP
+Device : 10CL055YF484I7G
+Timing Models : Final
+Total logic elements : 1,763 / 55,856 ( 3 % )
+    Total combinational functions : 1,104 / 55,856 ( 2 % )
+    Dedicated logic registers : 1,246 / 55,856 ( 2 % )
+Total registers : 1246
+Total pins : 24 / 322 ( 7 % )
+Total virtual pins : 0
+Total memory bits : 118,784 / 2,396,160 ( 5 % )
+Embedded Multiplier 9-bit elements : 0 / 312 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
